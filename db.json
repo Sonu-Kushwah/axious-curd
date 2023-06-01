@@ -1,0 +1,75 @@
+{
+  "restorent": [
+    {
+      "id": 1,
+      "name": "Pizza Hut",
+      "addresh": "Gwalior",
+      "rating": 4.5,
+      "email": "sonukushwah362@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "McDonald",
+      "addresh": "Delhi",
+      "rating": 4,
+      "email": "mc@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Pizza",
+      "addresh": "Mubai",
+      "rating": 4,
+      "email": "pizza@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Poha",
+      "addresh": "Indore",
+      "rating": 5.2,
+      "email": "poha@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Manchurian",
+      "addresh": "China",
+      "rating": 4,
+      "email": "manchirian@gmail.com"
+    },
+    {
+      "name": "Bhutiya",
+      "addresh": "bhind",
+      "rating": 4.5,
+      "email": "sonukushwah362@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Momos",
+      "addresh": "dubai",
+      "rating": "5.2",
+      "email": "momos@gmail.com",
+      "userId": "7",
+      "id": "7"
+    },
+    {
+      "name": "Panner Tikka",
+      "addresh": "gwalior",
+      "email": "paneertikka@gmail.com",
+      "rating": "5.6",
+      "id": "GwQdvUW"
+    },
+    {
+      "name": "pateej",
+      "addresh": "Anand Nagar",
+      "email": "sonuloveshivam@gmail.com",
+      "rating": "4.3",
+      "id": "BEXhlIR"
+    },
+    {
+      "name": "tikki",
+      "addresh": "Anand Nagar",
+      "email": "sonuloveshivam@gmail.com",
+      "rating": "5.6",
+      "id": "1673108338029"
+    }
+  ]
+}
